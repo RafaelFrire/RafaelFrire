@@ -3,7 +3,16 @@
 ### Rafael Freire
 
 ### 
-<h2> Studying to be a software devoloper...</h2>
+<h2> writing my history...</h2>
+
+### about
+<p>
+    I'm second year student of Systems Development Analyst at Fatec Itu.
+    I have experince like web developer, building single page application using ReactJs + Typescript,
+    building Rest API using nodejs + express, creating database relational usign mysql, PostgreesSql.
+  
+</p>
+
 
 
 
