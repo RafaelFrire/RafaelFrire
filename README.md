@@ -3,14 +3,15 @@
 ### Rafael Freire
 
 ### 
-<h2> writing my history...</h2>
+<h2>Software Engineer</h2>
 
 ### about
 <p>
-    I'm second year student of Systems Development Analyst at Fatec Itu.
-    I have experince like web developer, building single page application using ReactJs + Typescript,
-    building Rest API using nodejs + express, creating database relational usign mysql, PostgreesSql.
-  
+    Software Engineer with experience in diverse projects across areas such as Healthcare, Business Intelligence, and E-commerce.
+    
+    Strong background in building scalable and complex software solutions, with a focus on performance, usability, and clean architecture.
+    
+    Skilled with technologies like React.js, Next.js, Kotlin, Spring Boot, Hibernate, Flyway, Node.js, Express, Prisma, and Tailwind CSS.
 </p>
 
 
