@@ -7,9 +7,11 @@
 
 ### about
 <p>
-    Software Engineer with experience in diverse projects across areas such as Healthcare, Business Intelligence, and E-commerce.
+    Software Engineer with experience in diverse projects across areas such as Healthcare,
+    Business Intelligence, and E-commerce.
     
-    Strong background in building scalable and complex software solutions, with a focus on performance, usability, and clean architecture.
+    Strong background in building scalable and complex software solutions, with a focus on performance,
+    usability, and clean architecture.
     
     Skilled with technologies like 
     React.js, Next.js, Kotlin, Spring Boot,
