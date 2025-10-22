@@ -11,7 +11,10 @@
     
     Strong background in building scalable and complex software solutions, with a focus on performance, usability, and clean architecture.
     
-    Skilled with technologies like React.js, Next.js, Kotlin, Spring Boot, Hibernate, Flyway, Node.js, Express, Prisma, and Tailwind CSS.
+    Skilled with technologies like 
+    React.js, Next.js, Kotlin, Spring Boot,
+    Hibernate, Flyway, Node.js, Express, Prisma,
+    and Tailwind CSS.
 </p>
 
 
